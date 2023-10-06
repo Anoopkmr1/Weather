@@ -21,5 +21,11 @@
 			</array>
 		</dict>
 	</dict>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Permission Required to access location</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Permission Required</string>
 </dict>
 </plist>
